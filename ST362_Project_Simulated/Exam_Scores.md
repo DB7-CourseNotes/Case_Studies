@@ -1,5 +1,10 @@
 # Simulated Exam Scores
 
+
+```R
+exam_scores <- read.csv("https://raw.githubusercontent.com/DB7-CourseNotes/Case_Studies/main/ST362_Project_Simulated/Exam_Scores.csv")
+```
+
 These data contain the following predictors:
 
 | Variable Name | Type | Description |
